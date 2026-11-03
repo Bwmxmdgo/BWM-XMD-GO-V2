@@ -10,7 +10,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://files.catbox.moe/bkuj17.jpg" width="85%" height="auto">
+  <img src="[https://files.catbox.moe/bkuj17.jpg](https://res.cloudinary.com/dqxlb29uz/image/upload/v1793666827/avatars/url-9f56d69d-d29c-4074-bb90-b0e5f51bfba5.jpg)" width="85%" height="auto">
 </p>
 
 ---
@@ -58,13 +58,13 @@ Deploy the bot on your preferred platform.
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/4r5OewBgLIs?si=azJ2ByJjZu5ZjrOC" target="_blank">
+  <a href="https://youtu.be/Ko2nPnw4nwo?si=PKeer3T9XI9LPGob" target="_blank">
     <img src="https://img.shields.io/badge/📺_WATCH_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="300" height="50"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/4r5OewBgLIs?si=azJ2ByJjZu5ZjrOC" target="_blank">
+  <a href="https://youtu.be/Ko2nPnw4nwo?si=PKeer3T9XI9LPGob" target="_blank">
     <img src="https://img.youtube.com/vi/4r5OewBgLIs/0.jpg" width="400" height="225" alt="BWM XMD Deployment Tutorial">
   </a>
   <br>
@@ -82,18 +82,12 @@ Once configured, your bot will be ready to use!
   <table>
     <tr>
       <td align="center">
-        <img src="https://files.catbox.moe/i5ax9j.jpg" width="300"><br>
-        <small><i>Bot Interface</i></small>
-      </td>
-      <td align="center">
-        <img src="https://files.catbox.moe/h316gy.jpg" width="300"><br>
-        <small><i>Features Panel</i></small>
-      </td>
-    </tr>
+        <img src="https://res.cloudinary.com/dqxlb29uz/image/upload/v1793666966/avatars/url-10b893e3-2222-41bd-a82b-d3d1646aada0.jpg" width="300"><br>
+        <small><i>Download music and videos</i></small>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://files.catbox.moe/7xz8lv.jpg" width="320"><br>
-        <small><i>Control Panel</i></small>
+        <img src="https://res.cloudinary.com/dqxlb29uz/image/upload/v1793667151/avatars/url-412194e1-a29e-4f36-b195-f57078558e7b.jpg" width="320"><br>
+        <small><i>Bot settings</i></small>
       </td>
     </tr>
   </table>
