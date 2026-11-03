@@ -10,7 +10,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://files.catbox.moe/bkuj17.jpg](https://res.cloudinary.com/dqxlb29uz/image/upload/v1793666827/avatars/url-9f56d69d-d29c-4074-bb90-b0e5f51bfba5.jpg)" width="85%" height="auto">
+  <img src="https://res.cloudinary.com/dqxlb29uz/image/upload/v1793666827/avatars/url-9f56d69d-d29c-4074-bb90-b0e5f51bfba5.jpg" width="85%" height="auto">
 </p>
 
 ---
@@ -65,7 +65,7 @@ Deploy the bot on your preferred platform.
 
 <p align="center">
   <a href="https://youtu.be/Ko2nPnw4nwo?si=PKeer3T9XI9LPGob" target="_blank">
-    <img src="https://img.youtube.com/vi/4r5OewBgLIs/0.jpg" width="400" height="225" alt="BWM XMD Deployment Tutorial">
+    <img src="https://img.youtube.com/vi/PKeer3T9XI9LPGob/0.jpg" width="400" height="225" alt="BWM XMD Deployment Tutorial">
   </a>
   <br>
   <sub>⚠️ <strong>Click the image or button above to watch on YouTube</strong> (GitHub does not support embedded video players)</sub>
